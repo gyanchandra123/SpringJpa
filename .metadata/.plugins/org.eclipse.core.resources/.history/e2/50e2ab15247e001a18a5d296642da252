@@ -1,0 +1,9 @@
+package com.in28minutes.springboot.basics.springbootin10steps.model;
+
+public class Book {
+	
+	id
+	name
+	aouthor
+
+}

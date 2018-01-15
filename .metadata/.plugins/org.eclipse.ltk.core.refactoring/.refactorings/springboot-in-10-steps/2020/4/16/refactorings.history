@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.in28minutes.springboot.basics.springbootin10steps.model.Student.java&apos; to &apos;Book.java&apos;&#x0D;&#x0A;- Original project: &apos;springboot-in-10-steps&apos;&#x0D;&#x0A;- Original element: &apos;com.in28minutes.springboot.basics.springbootin10steps.model.Student.java&apos;&#x0D;&#x0A;- Renamed element: &apos;com.in28minutes.springboot.basics.springbootin10steps.model.Book.java&apos;" description="Rename compilation unit &apos;Student.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src\/main\/java&lt;com.in28minutes.springboot.basics.springbootin10steps.model{Student.java" name="Book.java" references="false" stamp="1586850364027" version="1.0"/>
+</session>

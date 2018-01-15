@@ -1,0 +1,5 @@
+package com.in28minutes.springboot.basics.springbootin10steps.controller;
+
+public class BookController {
+
+}
